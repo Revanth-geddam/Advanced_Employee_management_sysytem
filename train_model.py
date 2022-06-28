@@ -9,9 +9,8 @@ import pandas as pd
 import datetime
 import time
 
-#####Window is our Main frame of system
 window = tk.Tk()
-window.title("Face Recognition")
+window.title("NITK-Face Recognition")
 window.geometry('1280x720')
 window.configure()
 
